@@ -8,11 +8,11 @@ def main():
     api = todoist.TodoistAPI(TODOIST_API_KEY)
     api.sync()
 
-    for item in api.state['items']:
-        # see: item object document.
-        # https://developer.todoist.com/sync/v8/#items
+    for project in api.state['projects']:
+        # see: project object document.
+        # https://developer.todoist.com/sync/v8/#projects
 
-        print(item['content'])
+        print(project['name'])
 
 if __name__ == "__main__":
     main()

@@ -7,3 +7,8 @@ Sample1
 --------------------
 
 get all items.
+
+Sample2
+--------------------
+
+get all projects.
