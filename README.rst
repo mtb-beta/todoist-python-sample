@@ -17,3 +17,9 @@ Sample3
 --------------------
 
 get items in Inbox.(all items include complated, deleted)
+
+Sample4
+--------------------
+
+get items in Inbox exclude complated, deleted.
+
