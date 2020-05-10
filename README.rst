@@ -28,4 +28,7 @@ Sample5
 
 get Today's items(exclude completed, deleted, expired).
 
+Sample6
+--------------------
 
+get to want to proceed items.(today's item and expired item).
